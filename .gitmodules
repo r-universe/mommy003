@@ -5,3 +5,6 @@
 [submodule "r2redux"]
 	path = r2redux
 	url = https://github.com/mommy003/r2redux
+[submodule "R2ROC"]
+	path = R2ROC
+	url = https://github.com/mommy003/r2roc
