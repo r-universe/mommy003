@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "r2redux"]
-	path = r2redux
-	url = https://github.com/mommy003/r2redux
 [submodule "R2ROC"]
 	path = R2ROC
 	url = https://github.com/mommy003/r2roc
+[submodule "r2redux"]
+	path = r2redux
+	url = https://github.com/mommy003/r2redux
